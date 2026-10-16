@@ -1,0 +1,63 @@
+project: "WFHelper Farming Planner"
+current_phase: 1
+phases:
+  - id: 1
+    name: "Baseline and Test Foundation"
+    file: "phase-01-baseline-and-test-foundation.md"
+    status: pending
+    progress: "0/9"
+  - id: 2
+    name: "Five-Section Native Shell"
+    file: "phase-02-five-section-native-shell.md"
+    status: pending
+    progress: "0/8"
+  - id: 3
+    name: "Shared Model and Native Adapters"
+    file: "phase-03-shared-model-and-native-adapters.md"
+    status: pending
+    progress: "0/9"
+  - id: 4
+    name: "Durable Persistence and Recovery"
+    file: "phase-04-durable-persistence-and-recovery.md"
+    status: pending
+    progress: "0/9"
+  - id: 5
+    name: "Deterministic Shared Priority Engine"
+    file: "phase-05-deterministic-shared-priority-engine.md"
+    status: pending
+    progress: "0/8"
+  - id: 6
+    name: "Weekly Synchronization and History"
+    file: "phase-06-weekly-synchronization-and-history.md"
+    status: pending
+    progress: "0/10"
+  - id: 7
+    name: "Events and Personal Calendar"
+    file: "phase-07-events-and-personal-calendar.md"
+    status: pending
+    progress: "0/9"
+  - id: 8
+    name: "Builds and Shared Requirements"
+    file: "phase-08-builds-and-shared-requirements.md"
+    status: pending
+    progress: "0/9"
+  - id: 9
+    name: "Short Term Targets and Activities"
+    file: "phase-09-short-term-targets-and-activities.md"
+    status: pending
+    progress: "0/9"
+  - id: 10
+    name: "Long Term Catalog and Progression"
+    file: "phase-10-long-term-catalog-and-progression.md"
+    status: pending
+    progress: "0/9"
+  - id: 11
+    name: "Cross-Section Acceptance and Upstream Regression"
+    file: "phase-11-cross-section-acceptance-and-upstream-regression.md"
+    status: pending
+    progress: "0/9"
+  - id: 12
+    name: "Packaging and Upstream Maintenance"
+    file: "phase-12-packaging-and-upstream-maintenance.md"
+    status: pending
+    progress: "0/9"
